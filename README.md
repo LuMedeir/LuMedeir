@@ -1,3 +1,5 @@
+<img width="45%" alt="Github" aling="center" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Luiza.;I'm+18+years+old.;&center=true&width=500&height=50&color=FF1493"></a>
 </p>
