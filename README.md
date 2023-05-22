@@ -1,7 +1,7 @@
 <img width="45%" alt="Github" aling="center" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Luiza.;I'm+18+years+old.;&center=true&width=700&height=70&color=FF1493"></a>
+  <a href="https://www.linkedin.com/in/luiza-medeiros-01979326b/"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Luiza.;I'm+18+years+old.;&center=true&width=700&height=70&color=FF1493"></a>
 </p>
 
 ### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Statistics
