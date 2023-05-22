@@ -8,7 +8,7 @@
 
 <br/>
 <p align="left">
-  <a href="http://torrinleonard.com/">
+  <a href="https://www.linkedin.com/in/luiza-medeiros-01979326b/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LuMedeir&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuMedeir&theme=radical&hide_border=true">		  
   </a>
@@ -18,7 +18,7 @@
 <!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
 
 <p align="center">
-  <a href="http://torrinleonard.com/">
+  <a href="http://torrinleonard.com/](https://www.linkedin.com/in/luiza-medeiros-01979326b/)">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMedeir&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
