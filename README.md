@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/luiza-medeiros-01979326b/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LuMedeir&show_icons=true&include_all_commits=true&theme=radical&border=true">
-    <img width="50.0%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuMedeir&theme=radical&hide_border=true">		  
+    <img width="50.0%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuMedeir&theme=radical&border=true">		  
   </a>
 </p>
 <br>
