@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiza-medeiros-01979326b/"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Luiza.;I'm+19+years+old.;I'm a sorftware engineer student.;&center=true&width=700&height=70&color=FF1493"></a>
+  <a href="https://www.linkedin.com/in/luiza-medeiros-01979326b/"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Luiza.;I'm+19+years+old.;I'm a sorftware engineer                       
+  student.;&center=true&width=700&height=70&color=FF1493"></a>
 </p>
 
 ### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Statistics
