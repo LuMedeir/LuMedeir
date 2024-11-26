@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiza-medeiros-01979326b/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMedeir&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuMedeir&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=25">
   </a>
 </p>
   <div align="center">
